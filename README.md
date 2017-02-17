@@ -30,7 +30,29 @@ There are a broad range of information available online to learn about GIT
   -  Solve the last equation
   -  Write a new **unsolved** equation (for the next participant)
 - Commit your work to the repository
-- Push your changes to the remote
+- Push your changes to your remote
 - Create a Pull-Request (PR) to the main repository
 - Follow up on any further instruction
 
+### Merge Conflicts
+
+- Check out the *tutorial* branch
+- Open the *Test 2.txt* file and solve the equation
+- Commit your work to the repository
+- Push your changes to your remote
+- Pull the *master* branch into your local branch
+- Solve the conflicts, and commit the operation
+- Open the *Finished Tutorial.md* file, and add your name to the list
+- Commit your work and create a pull request to the main repository
+
+
+- Modify the file “Test File” and provide the answer to the equation.
+- Commit your change to your branch
+- Merge the master branch into your branch by using the commit “Commit to pick!!”
+- Solve the merging conflict created and commit it to your branch
+- Modify the file “Test File” and provide the answer to the second equation. Commit your change to your branch
+- Modify the File “Finished Tutorial” to add your name in the empty list (put your name on a new line). Commit your change to your branch
+- Prepare a pull request from your branch to Master and select me as reviewer.
+
+I hope this will help you grasp how GIT works. I will have a look at your pull requests and comment back if you did something wrong.
+All in all this should take you about 30 minutes (less if you already have installed and configured SourceTree on your computer)
