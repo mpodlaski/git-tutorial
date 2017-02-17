@@ -7,3 +7,4 @@ Name:
 - Maxime B.
 - biswarupm
 - Fanny Radesjoe
+- Miguel
