@@ -8,3 +8,4 @@ Name:
 - biswarupm
 - Fanny Radesjoe
 - Miguel
+- Maxime B. (new tuto)
