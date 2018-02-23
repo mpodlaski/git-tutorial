@@ -1,3 +1,3 @@
 This is a very important file
 
-You needs to correct this line and afterwards you will need to remove it in the merge operation.
+During the merge you will need to keep this line
